@@ -1,2 +1,0 @@
-# hexoBlog
-private blog repo
